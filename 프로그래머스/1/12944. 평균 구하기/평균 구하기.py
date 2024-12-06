@@ -1,3 +1,3 @@
 def solution(arr):
-    result = int(sum(arr))/int(len(arr))
+    result = sum(arr)/len(arr)
     return result
